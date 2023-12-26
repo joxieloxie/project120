@@ -1,0 +1,43 @@
+.heading_div
+{
+  float: none;
+  background: white; 
+  padding: 10px;
+  border-radius: 20px; 
+  color: black;
+  box-shadow:5px 5px 5px grey;
+}
+
+.heading_div2
+{
+  font-size:larger 
+}
+
+.heading_div3
+{
+  font-size:large
+}
+
+#mobilnet
+{
+  height:5%;
+  width:25%;
+  background-color:dodgerblue;
+  font-size:larger;
+  font-family:'Hind+Siliguri';
+  float:none;
+}
+
+#gloutput
+{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:x-large;
+  float:right;
+}
+
+#mnoutput
+{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:x-large;
+  float:right;
+}
